@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 440" role="img" aria-labelledby="t d">
+<title id="t">Illustrated Eurofighter Typhoon-inspired display jet</title><desc id="d">Graphic of a silver delta-wing fighter in flight with a red nose stripe, in the style of the site's original illustration.</desc>
+<defs><linearGradient id="body" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#f7f9f9"/><stop offset=".42" stop-color="#a8bcc4"/><stop offset="1" stop-color="#78919d"/></linearGradient><linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dae5e7"/><stop offset="1" stop-color="#91aab0"/></linearGradient></defs>
+<g transform="translate(8 45)">
+<path d="M34 256 L250 201 L374 158 L517 126 L566 69 L583 74 L569 133 L619 154 L623 170 L548 166 L424 197 L475 295 L400 307 L312 222 L198 244 L43 265 Z" fill="url(#body)" stroke="#dfe8eb" stroke-width="3" stroke-linejoin="round"/>
+<path d="M254 199 L360 117 L393 110 L389 166 Z" fill="#e1eaea" stroke="#b6c7cc" stroke-width="3"/>
+<path d="M342 131 L371 124 L367 161 L337 175 Z" fill="#334e65"/>
+<path d="M419 199 L474 295 L403 304 L316 219Z" fill="url(#wing)"/>
+<path d="M384 168 L519 129 L566 69 L582 74 L567 134 L620 156 L618 168 L551 161 Z" fill="#c7d8dd"/>
+<path d="M51 251 L250 204 L265 210 L117 252Z" fill="#fff"/>
+<path d="M122 247 L254 211 L268 213 L176 240Z" fill="#dc2534"/>
+<path d="M320 203 L467 163" stroke="#d72a3a" stroke-width="5"/>
+<path d="M35 257 L196 242" stroke="#f9fdff" stroke-width="4"/>
+<path d="M359 118 L391 109 L388 168 L359 177 Z" fill="none" stroke="#f1f6f4" stroke-width="2"/>
+</g></svg>
